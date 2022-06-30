@@ -2,7 +2,7 @@
 const { Router } = require("express");
 
 // import controller functions from view file
-const { renderHomePage } = require("../controllers/view");
+const { renderHomePage } = require("../controllers/views");
 
 // create a router instance
 const router = Router();
