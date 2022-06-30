@@ -1,6 +1,6 @@
 const { Router } = require("express");
 
-const views = require("./api");
+const views = require("./movies-page");
 
 const router = Router();
 
